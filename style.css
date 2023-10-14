@@ -314,9 +314,9 @@ body {
 .products p,
 .contact p {
   text-align: center;
-  max-width: 5rem;
+  max-width: 30rem;
   margin: auto;
-  font-weight: 4;
+  font-weight: 100;
   line-height: 1.6;
 }
 
