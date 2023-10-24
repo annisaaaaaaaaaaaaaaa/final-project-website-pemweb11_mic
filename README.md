@@ -126,15 +126,16 @@ Pastikan tombol dan tautan merespons dengan cepat saat diklik.
 Perhatikan kenyamanan pengguna dalam berinteraksi dengan situs.
 •	Konten Multimedia yang Terkelola dengan Baik:
 Pastikan video, audio, dan gambar yang digunakan di situs di-host dengan baik dan tidak mengganggu performa.
+
 5.2 Persyaratan Keselamatan dan Keamanan 
 Pengelolaan Kata Sandi yang Aman:
 •	Memaksa pengguna untuk menggunakan kata sandi yang kuat dan aman.
 Simpan kata sandi dengan menggunakannya dengan algoritma hash yang aman.
-
 •	Pembaruan Rutin:
 Selalu perbarui perangkat lunak, sistem operasi, dan framework yang digunakan di situs web Anda untuk mengatasi kerentanan yang telah ditemukan.
 •	Pemulihan Bencana (Disaster Recovery):
 Lakukan pencadangan (backup) data secara teratur dan memiliki rencana pemulihan bencana yang efektif.
+
 5.3 Atribut Kualitas Perangkat Lunak
 •	Kinerja (Performance):
 Kinerja mengacu pada responsivitas dan kecepatan situs web. Website harus memuat dengan cepat dan memberikan pengalaman berkinerja tinggi.
@@ -144,29 +145,16 @@ Keamanan adalah atribut kualitas yang sangat penting. Situs web makanan harus me
 Atribut ini berfokus pada pengalaman pengguna. Situs web makanan harus mudah digunakan, dengan antarmuka yang intuitif, navigasi yang jelas, dan proses pemesanan yang lancar.
 •	Pengujian dan Pemantauan (Testing and Monitoring):
 Atribut ini mencakup kebijakan pengujian perangkat lunak secara rutin untuk mengidentifikasi dan memperbaiki kerentanan serta pemantauan kinerja dan keamanan secara terus-menerus.
+
 5.4 Aturan Bisnis
 •	Perizinan dan Kepatuhan:
 Mematuhi semua perizinan dan peraturan yang berlaku terkait dengan bisnis makanan, termasuk izin kesehatan dan peraturan pangan agar bisa dipercaya oleh pembeli.
 •	Keamanan Transaksi dan Pembayaran:
 Pastikan bahwa transaksi pembayaran online aman dan terlindungi. Bisa menggunakan protokol keamanan HTTPS dan perlindungan terhadap penipuan atau bisa menggunakan tunai maupun non tunai.
-
 •	Kualitas Gambar Produk:
 Gambar produk dan menu yang ditampilkan di situs web mencerminkan dengan baik produk yang sebenarnya dan pastikan gambar tidak mengambil dari google dengan foto yang kualitas yang baik.
 •	Harga yang Jelas:
 Harga produk dengan jelas dan transparan, termasuk biaya pengiriman dan pajak.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 PERSYARATAN NONFUNGSIONAL LAINNYA 
@@ -188,15 +176,16 @@ Pastikan tombol dan tautan merespons dengan cepat saat diklik.
 Perhatikan kenyamanan pengguna dalam berinteraksi dengan situs.
 •	Konten Multimedia yang Terkelola dengan Baik:
 Pastikan video, audio, dan gambar yang digunakan di situs di-host dengan baik dan tidak mengganggu performa.
+
 5.2 Persyaratan Keselamatan dan Keamanan 
 Pengelolaan Kata Sandi yang Aman:
 •	Memaksa pengguna untuk menggunakan kata sandi yang kuat dan aman.
 Simpan kata sandi dengan menggunakannya dengan algoritma hash yang aman.
-
 •	Pembaruan Rutin:
 Selalu perbarui perangkat lunak, sistem operasi, dan framework yang digunakan di situs web Anda untuk mengatasi kerentanan yang telah ditemukan.
 •	Pemulihan Bencana (Disaster Recovery):
 Lakukan pencadangan (backup) data secara teratur dan memiliki rencana pemulihan bencana yang efektif.
+
 5.3 Atribut Kualitas Perangkat Lunak
 •	Kinerja (Performance):
 Kinerja mengacu pada responsivitas dan kecepatan situs web. Website harus memuat dengan cepat dan memberikan pengalaman berkinerja tinggi.
@@ -211,7 +200,6 @@ Atribut ini mencakup kebijakan pengujian perangkat lunak secara rutin untuk meng
 Mematuhi semua perizinan dan peraturan yang berlaku terkait dengan bisnis makanan, termasuk izin kesehatan dan peraturan pangan agar bisa dipercaya oleh pembeli.
 •	Keamanan Transaksi dan Pembayaran:
 Pastikan bahwa transaksi pembayaran online aman dan terlindungi. Bisa menggunakan protokol keamanan HTTPS dan perlindungan terhadap penipuan atau bisa menggunakan tunai maupun non tunai.
-
 •	Kualitas Gambar Produk:
 Gambar produk dan menu yang ditampilkan di situs web mencerminkan dengan baik produk yang sebenarnya dan pastikan gambar tidak mengambil dari google dengan foto yang kualitas yang baik.
 •	Harga yang Jelas:
