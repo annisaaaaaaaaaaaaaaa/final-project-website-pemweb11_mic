@@ -1,51 +1,15 @@
-  
-Spesifikasi Kebutuhan  
-Perangkat Lunak
-Untuk
-Kedai Kopi Pada 
-Bitween Suburbians
+Spesifikasi Kebutuhan  Perangkat Lunak Untuk
+Kedai Kopi Pada Bitween Suburbians
 Versi 1.0 Disetujui
 Disusun Oleh :
-Annastasya Aqila Chandrawati (22091397109)
-Alycia Yosephine Br Sinaga (22091397080)
-Annisa Nabilah Rafiah (22091397101)
+    Annastasya Aqila Chandrawati (22091397109)
+    Alycia Yosephine Br Sinaga (22091397080)
+    Annisa Nabilah Rafiah (22091397101)
 
-
-D4 MANAJEMEN INFORMATIKA
-FAKULTAS VOKASI
-UNIVERSITAS NEGERI SURABAYA
-
-TAHUN 2023
-
-
-Daftar Isi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+D4 MANAJEMEN INFORMATIKA FAKULTAS VOKASI UNIVERSITAS NEGERI SURABAYA TAHUN 2023
 
 BAB 1
 PENDAHULUAN
-
 1.1	Latar Belakang
 Dalam era digital yang semakin maju ini, website telah menjadi bagian tidak terpisahkan dalam kehidupan sehari-hari. Website-website tersebut tidak hanya memberikan kenyamanan, tetapi juga membuka peluang baru dalam berbagai sektor, termasuk industri retail. Salah satu bentuk website yang semakin populer adalah website Di era digital yang semakin maju, layanan belanja online telah menjadi bagian integral dalam kehidupan sehari-hari banyak orang. Salah satu tren yang terus berkembang adalah pembelian makanan dan minuman secara online dan informasi terkait sebuah kedai kopi sehingga memungkin kita mendapat informasi secara online tanpa harus datang ke kedai kopi terlebih dahulu secara langsung. Website kedai kopi “Bitween Suburbians” hadir untuk memenuhi kebutuhan konsumen yang mencari rekomendasi minuman dan kopi susu berkualitas tinggi dan lezat dengan kenyamanan dalam informasi yang diberikan dari rumah.
 1.2	Tujuan 
@@ -70,8 +34,6 @@ Dokumen ini menjelaskan tentang perangkat lunak website kedai kopi Bitween Subur
 6. https://jurnal.untan.ac.id/index.php/jtinUNTAN/article/view/51639 
 7. https://stuja.id/
 
-
- 
 BAB II
 DESKRIPSI KESELURUHAN
 2.1 Perspektif Produk
@@ -125,7 +87,6 @@ B. Ketergantungan
 4. Ketersediaan Database Management System MySQL sebagai DBMS harus berfungsi dengan baik dan memenuhi kebutuhan platform.
 5. Ketersediaan Teknologi Keamanan Teknologi keamanan seperti SSL/TLS harus tersedia dan berfungsi dengan baik untuk melindungi data pengguna.
 6. Integrasi Algoritma Rekomendasi Algoritma rekomendasi harus dapat diintegrasikan dengan platform dan berjalan dengan akurat berdasarkan data pengguna.
-
  
 BAB III
 KEBUTUHAN ANTARMUKA EKSTERNAL
