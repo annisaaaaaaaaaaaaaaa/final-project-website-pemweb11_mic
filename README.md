@@ -119,11 +119,10 @@ Pastikan situs mudah ditemukan di mesin pencari dengan mengoptimalkan judul hala
 Situs web harus mampu menangani lalu lintas yang besar, terutama pada saat promosi atau acara khusus.
 •	Kinerja Server:
 Pastikan server berkinerja tinggi untuk menghindari waktu tak terduga atau gangguan server.
-Monitoring dan Analitik:
+• Monitoring dan Analitik:
 Gunakan alat pemantauan kinerja untuk memahami sejauh mana situs web Anda memenuhi persyaratan kinerja. Analisis perilaku pengguna untuk memahami bagaimana mereka berinteraksi dengan situs web.
 •	Optimalisasi Respons Klik (Click Response):
-Pastikan tombol dan tautan merespons dengan cepat saat diklik.
-Perhatikan kenyamanan pengguna dalam berinteraksi dengan situs.
+Pastikan tombol dan tautan merespons dengan cepat saat diklik. Perhatikan kenyamanan pengguna dalam berinteraksi dengan situs.
 •	Konten Multimedia yang Terkelola dengan Baik:
 Pastikan video, audio, dan gambar yang digunakan di situs di-host dengan baik dan tidak mengganggu performa.
 
