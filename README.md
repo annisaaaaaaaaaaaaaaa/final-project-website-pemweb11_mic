@@ -101,5 +101,134 @@ Antarmuka Pengguna memberikan pemahaman mengenai fitur-fitur yang adaa dan bagai
 7.	Tampilan kontak : melanjutkana komunikasi antar pengguna dan pemiliki kedai terkait informasi produk, rekan bisnis, partner bisnis dan ulasan kedai dan produk kopi bitween suburbians
 3.2 antarmuka perangkat keras 
 Aplikasi ini dapat diakses dengan menggunakan beberapa perangkat keras seperti mouse sebagai pointer, keyboard sebagai tombol input, dan yang terpenting yaitu handphone atau laptop untuk mengakses aplikasi dengan terhubung ke internet. Kecepatan aplikasi berbasis website ini pada saat digunakan tergantung pada juga kecepatan internet yang digunakan dan kondisi perangkat.
-3.3. 
+3.3.
+
+
+
+
+BAB V
+PERSYARATAN NONFUNGSIONAL LAINNYA 
+5.1 Persyaratan Kinerja
+•	Responsif Terhadap Perangkat Bergerak (Mobile Responsiveness):
+Pastikan situs web tampil dengan baik pada perangkat mobile, seperti smartphone dan tablet.
+•	Keamanan Data Pengguna (User Data Security):
+Lindungi data pribadi dan pembayaran pengguna dengan enkripsi yang kuat. Terapkan perlindungan terhadap serangan siber seperti SQL injection dan cross-site scripting (XSS).
+•	Optimalisasi SEO (Search Engine Optimization):
+Pastikan situs mudah ditemukan di mesin pencari dengan mengoptimalkan judul halaman, meta deskripsi, dan kata kunci yang relevan.Pastikan konten relevan dan bermanfaat untuk meningkatkan peringkat SEO.
+•	Kapasitas dan Skalabilitas:
+Situs web harus mampu menangani lalu lintas yang besar, terutama pada saat promosi atau acara khusus.
+•	Kinerja Server:
+Pastikan server berkinerja tinggi untuk menghindari waktu tak terduga atau gangguan server.
+Monitoring dan Analitik:
+Gunakan alat pemantauan kinerja untuk memahami sejauh mana situs web Anda memenuhi persyaratan kinerja. Analisis perilaku pengguna untuk memahami bagaimana mereka berinteraksi dengan situs web.
+•	Optimalisasi Respons Klik (Click Response):
+Pastikan tombol dan tautan merespons dengan cepat saat diklik.
+Perhatikan kenyamanan pengguna dalam berinteraksi dengan situs.
+•	Konten Multimedia yang Terkelola dengan Baik:
+Pastikan video, audio, dan gambar yang digunakan di situs di-host dengan baik dan tidak mengganggu performa.
+5.2 Persyaratan Keselamatan dan Keamanan 
+Pengelolaan Kata Sandi yang Aman:
+•	Memaksa pengguna untuk menggunakan kata sandi yang kuat dan aman.
+Simpan kata sandi dengan menggunakannya dengan algoritma hash yang aman.
+
+•	Pembaruan Rutin:
+Selalu perbarui perangkat lunak, sistem operasi, dan framework yang digunakan di situs web Anda untuk mengatasi kerentanan yang telah ditemukan.
+•	Pemulihan Bencana (Disaster Recovery):
+Lakukan pencadangan (backup) data secara teratur dan memiliki rencana pemulihan bencana yang efektif.
+5.3 Atribut Kualitas Perangkat Lunak
+•	Kinerja (Performance):
+Kinerja mengacu pada responsivitas dan kecepatan situs web. Website harus memuat dengan cepat dan memberikan pengalaman berkinerja tinggi.
+•	Keamanan (Security):
+Keamanan adalah atribut kualitas yang sangat penting. Situs web makanan harus memiliki perlindungan yang kuat terhadap serangan siber, perlindungan data pengguna, dan perlindungan transaksi online.
+•	Kemudahan Penggunaan (Usability):
+Atribut ini berfokus pada pengalaman pengguna. Situs web makanan harus mudah digunakan, dengan antarmuka yang intuitif, navigasi yang jelas, dan proses pemesanan yang lancar.
+•	Pengujian dan Pemantauan (Testing and Monitoring):
+Atribut ini mencakup kebijakan pengujian perangkat lunak secara rutin untuk mengidentifikasi dan memperbaiki kerentanan serta pemantauan kinerja dan keamanan secara terus-menerus.
+5.4 Aturan Bisnis
+•	Perizinan dan Kepatuhan:
+Mematuhi semua perizinan dan peraturan yang berlaku terkait dengan bisnis makanan, termasuk izin kesehatan dan peraturan pangan agar bisa dipercaya oleh pembeli.
+•	Keamanan Transaksi dan Pembayaran:
+Pastikan bahwa transaksi pembayaran online aman dan terlindungi. Bisa menggunakan protokol keamanan HTTPS dan perlindungan terhadap penipuan atau bisa menggunakan tunai maupun non tunai.
+
+•	Kualitas Gambar Produk:
+Gambar produk dan menu yang ditampilkan di situs web mencerminkan dengan baik produk yang sebenarnya dan pastikan gambar tidak mengambil dari google dengan foto yang kualitas yang baik.
+•	Harga yang Jelas:
+Harga produk dengan jelas dan transparan, termasuk biaya pengiriman dan pajak.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PERSYARATAN NONFUNGSIONAL LAINNYA 
+5.1 Persyaratan Kinerja
+•	Responsif Terhadap Perangkat Bergerak (Mobile Responsiveness):
+Pastikan situs web tampil dengan baik pada perangkat mobile, seperti smartphone dan tablet.
+•	Keamanan Data Pengguna (User Data Security):
+Lindungi data pribadi dan pembayaran pengguna dengan enkripsi yang kuat. Terapkan perlindungan terhadap serangan siber seperti SQL injection dan cross-site scripting (XSS).
+•	Optimalisasi SEO (Search Engine Optimization):
+Pastikan situs mudah ditemukan di mesin pencari dengan mengoptimalkan judul halaman, meta deskripsi, dan kata kunci yang relevan.Pastikan konten relevan dan bermanfaat untuk meningkatkan peringkat SEO.
+•	Kapasitas dan Skalabilitas:
+Situs web harus mampu menangani lalu lintas yang besar, terutama pada saat promosi atau acara khusus.
+•	Kinerja Server:
+Pastikan server berkinerja tinggi untuk menghindari waktu tak terduga atau gangguan server.
+Monitoring dan Analitik:
+Gunakan alat pemantauan kinerja untuk memahami sejauh mana situs web Anda memenuhi persyaratan kinerja. Analisis perilaku pengguna untuk memahami bagaimana mereka berinteraksi dengan situs web.
+•	Optimalisasi Respons Klik (Click Response):
+Pastikan tombol dan tautan merespons dengan cepat saat diklik.
+Perhatikan kenyamanan pengguna dalam berinteraksi dengan situs.
+•	Konten Multimedia yang Terkelola dengan Baik:
+Pastikan video, audio, dan gambar yang digunakan di situs di-host dengan baik dan tidak mengganggu performa.
+5.2 Persyaratan Keselamatan dan Keamanan 
+Pengelolaan Kata Sandi yang Aman:
+•	Memaksa pengguna untuk menggunakan kata sandi yang kuat dan aman.
+Simpan kata sandi dengan menggunakannya dengan algoritma hash yang aman.
+
+•	Pembaruan Rutin:
+Selalu perbarui perangkat lunak, sistem operasi, dan framework yang digunakan di situs web Anda untuk mengatasi kerentanan yang telah ditemukan.
+•	Pemulihan Bencana (Disaster Recovery):
+Lakukan pencadangan (backup) data secara teratur dan memiliki rencana pemulihan bencana yang efektif.
+5.3 Atribut Kualitas Perangkat Lunak
+•	Kinerja (Performance):
+Kinerja mengacu pada responsivitas dan kecepatan situs web. Website harus memuat dengan cepat dan memberikan pengalaman berkinerja tinggi.
+•	Keamanan (Security):
+Keamanan adalah atribut kualitas yang sangat penting. Situs web makanan harus memiliki perlindungan yang kuat terhadap serangan siber, perlindungan data pengguna, dan perlindungan transaksi online.
+•	Kemudahan Penggunaan (Usability):
+Atribut ini berfokus pada pengalaman pengguna. Situs web makanan harus mudah digunakan, dengan antarmuka yang intuitif, navigasi yang jelas, dan proses pemesanan yang lancar.
+•	Pengujian dan Pemantauan (Testing and Monitoring):
+Atribut ini mencakup kebijakan pengujian perangkat lunak secara rutin untuk mengidentifikasi dan memperbaiki kerentanan serta pemantauan kinerja dan keamanan secara terus-menerus.
+5.4 Aturan Bisnis
+•	Perizinan dan Kepatuhan:
+Mematuhi semua perizinan dan peraturan yang berlaku terkait dengan bisnis makanan, termasuk izin kesehatan dan peraturan pangan agar bisa dipercaya oleh pembeli.
+•	Keamanan Transaksi dan Pembayaran:
+Pastikan bahwa transaksi pembayaran online aman dan terlindungi. Bisa menggunakan protokol keamanan HTTPS dan perlindungan terhadap penipuan atau bisa menggunakan tunai maupun non tunai.
+
+•	Kualitas Gambar Produk:
+Gambar produk dan menu yang ditampilkan di situs web mencerminkan dengan baik produk yang sebenarnya dan pastikan gambar tidak mengambil dari google dengan foto yang kualitas yang baik.
+•	Harga yang Jelas:
+Harga produk dengan jelas dan transparan, termasuk biaya pengiriman dan pajak.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
